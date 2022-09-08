@@ -11,6 +11,8 @@ A deep VLA survey at 6 cm in the Lockman Hole, for details.
 The codes also take into account the blocking effect
 where the weak sources are blocked by the stronger ones.
 
+The matching is performed via Topcat.
+
 Contents:
 1) Main.py   : Main code. This code calls
                all the other ones.
